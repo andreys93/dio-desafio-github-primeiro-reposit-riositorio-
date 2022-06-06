@@ -1,0 +1,11 @@
+git
+
+-cd - mudar de diretorios
+-dir - listar repositorios
+-mkdir - criar diretorios
+-del / rmdir -deletar diretorios
+
+git init - iniciar a versonalização do git dentro da pasta 
+
+git add * - adicionar todos os arquivos modificados arquivo 
+git commit -m -salvar arquivo
